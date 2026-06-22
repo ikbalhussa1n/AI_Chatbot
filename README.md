@@ -5,6 +5,9 @@ This project demonstrates how to build a conversational AI interface with short-
 
 ---
 
+<img width="1766" height="835" alt="image" src="https://github.com/user-attachments/assets/f95eb761-44b1-41cf-ba42-cde6ec1d3ff7" />
+
+
 ## 🚀 Features
 
 - 💬 Real-time chat interface using Streamlit
